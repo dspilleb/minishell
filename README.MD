@@ -5,9 +5,7 @@
 
 ## 💡 About the project
 
->This project is about creating a simple shell.
-You will learn a lot about processes and file descriptors.
-The existence of shells is linked to the very existence of IT.
+>This project is about creating a simple bash shell to learn a lot about processes and file descriptors.
 
 
 
